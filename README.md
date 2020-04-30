@@ -1,4 +1,4 @@
-# microdes
+# Microdes
 Vulnerability Scanning Tool for Microcontrollers
 
 ## About
