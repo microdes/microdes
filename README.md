@@ -21,7 +21,9 @@ Only VSFTPD 2.3.4 vulnerability could be detected.
 
 ## Usage
 
-Firstly you should install Micropython to your microcontroller. You can find device specific releases of micropython under Micropython file. You can find device specific installation guides under device files.
+Firstly you should install Micropython to your microcontroller. You can find device specific releases of micropython under Micropython file. 
+
+You can find device specific installation guides under device files.
 
 Run microdes.py file with required arguements:
 
